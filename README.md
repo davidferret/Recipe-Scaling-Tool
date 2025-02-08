@@ -4,7 +4,7 @@ This is a C project that helps you scale ingredient amounts for recipes accurate
 
 The way I programmed this project was by implementing a system that takes an original ingredient amount and a scaling factor, then calculates the adjusted quantity. To make the results more practical, I included a feature that approximates scaled values to the closest 1/8 fraction. Input validation was also a key aspect, ensuring that you enter only positive numeric values before proceeding with the calculations.
 
-As someone who loves to cook, I built this project because I often found myself needing to scale recipes up or down but struggled with manually adjusting ingredient amounts. This was a great way to apply mathematical logic to a real-world problem while keeping the process intuitive. Hopefully, this helps you adjust your recipes effortlessly and get the perfect measurements every time!
+As someone who loves to bake sweets like brownies and rum cakes, I built this project because I often found myself needing to scale recipes up or down but struggled with manually adjusting ingredient amounts. This was a great way to apply mathematical logic to a real-world problem while keeping the process intuitive. Hopefully, this helps you adjust your recipes effortlessly and get the perfect measurements every time!
 
 ## Example Output
 ```
